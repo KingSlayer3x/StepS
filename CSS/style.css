@@ -137,9 +137,16 @@ header{
     font-family: Tahoma, sans-serif;
     font-weight: 800;
 }
+.icf{
+    float: right;
+}
 .card1{
+    background-color: transparent;
     border-radius: 25px 25px 0px 0px;
     border: 0px;
+}
+.ch{
+    margin-top: 100px;
 }
 .list{
     width: 11%;
